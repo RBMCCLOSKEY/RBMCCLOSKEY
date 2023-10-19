@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ryan! <br/><a href="https://www.linkedin.com/in/ryanbmccloskey/">Tech Enthusiast and Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Ryan! <br/><a href="https://www.linkedin.com/in/ryanbmccloskey/">Aspiring Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
